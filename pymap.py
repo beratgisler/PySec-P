@@ -10,7 +10,7 @@ print("Please wait for finishing the scan :))")
 
 #ip degistir-port degistir
 Chest_Scan = nmap.PortScanner()
-Chest_Scan.scan('rootcon.com.tr', '0-1000')
+Chest_Scan.scan('google.com', '0-1000')
 
 # loop ekran-cikti
 
